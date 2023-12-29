@@ -1,0 +1,16 @@
+<sinhvien>
+    <sinhviennam>
+        <masv>SV001</masv>
+        <hoten>Nguyễn Văn A</hoten>
+        <namsinh>2004</namsinh>
+        <lop>DHKL16A2HN</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhviennam>
+    <sinhviennu>
+        <masv>SV002</masv>
+        <hoten>Phạm thị A</hoten>
+        <namsinh>2004</namsinh>
+        <lop>DHKL16A2HN</lop>
+        <gioitinh>Nữ</gioitinh>
+    </sinhviennu>
+</sinhvien>

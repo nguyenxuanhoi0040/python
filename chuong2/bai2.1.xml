@@ -1,0 +1,18 @@
+<congty>
+    <giamdoc>
+        <name>Tên Giám Đốc</name>
+    </giamdoc>
+    <diachi>
+        <sonha>Số nhà:</sonha>
+        <phuong>Phường:</phuong>
+        <huyen>Huyện:</huyen>
+        <thanhpho>Thành phố:</thanhpho>
+        
+    </diachi>
+    <lienhe>
+        <sdt>Số điện thoại:</sdt>
+    </lienhe>
+    <masothue>
+        <sothue>Mã số thuế:</sothue>
+    </masothue>
+</congty>
